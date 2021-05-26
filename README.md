@@ -4,6 +4,14 @@ This repository will be updated weekly!
 
 - 🥲 Current repository version: 0.0.1
 
+-------
+
+## 👍 Download here:
+
+- <a href="https://drive.google.com/file/d/1VGOnB3J_k0DA0a7ottUGuDndaMinZyJK/view?usp=sharing">Apache NetBeans 12.3 with bundled JDK 8</a>
+
+-----
+
 ### New updates:
 <ul>
     <li>Added Apache NetBeans 12.3 portabled for beta testing.</li>
